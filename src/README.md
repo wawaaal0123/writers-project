@@ -21,7 +21,8 @@ pip install requests beautifulsoup4
 
 ### 2. Запуск скрипта
 
-python parser.py
+python avtorkareliaru.py
+
 Структура выходных данных
 authors
 
